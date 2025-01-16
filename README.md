@@ -1,9 +1,9 @@
 
 
 ```markdown
-# AutoNickML
+# Dexter
 
-AutoNickML is a user-friendly machine learning application built using **Streamlit** that helps users quickly explore, profile, and model their datasets. With an intuitive interface, it allows users to upload datasets, perform exploratory data analysis (EDA) through data profiling, and download the best model for their data. This project can be useful for data scientists, analysts, and anyone looking to simplify the initial steps of the machine learning pipeline.
+Dexter is a user-friendly machine learning application built using **Streamlit** that helps users quickly explore, profile, and model their datasets. With an intuitive interface, it allows users to upload datasets, perform exploratory data analysis (EDA) through data profiling, and download the best model for their data. This project can be useful for data scientists, analysts, and anyone looking to simplify the initial steps of the machine learning pipeline.
 
 ## Features
 
@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/AutoNickML.git
+git clone https://github.com/Dextersathya/AutoMl
 cd AutoNickML
 ```
 
