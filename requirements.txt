@@ -2,3 +2,4 @@ ydata-profiling
 scikit-learn
 streamlit-pandas-profiling
 tpot
+pkg_resources
